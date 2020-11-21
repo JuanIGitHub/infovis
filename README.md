@@ -1,7 +1,7 @@
 # infovis
 ## Módulo de Visualización - DDC
 
-Dejo algunos links sobre guías acerca del formato **"Markdow"**
+Dejo algunos links sobre guías acerca del formato **"Markdow"**:
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 * [GitHub Guide](https://guides.github.com/features/mastering-markdown/)
 * [cheatsheet.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
