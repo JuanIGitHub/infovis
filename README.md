@@ -9,5 +9,5 @@ Dejo algunos links sobre guías acerca del formato **"Markdow"**:
 
 Presento links a distintas visualizaciones:
 * **Tableu:**
-  * [overmonday_w44_conectividad en el mundo](https://juanignaciosolis.github.io/infovis/tableu_1.html)
+  * [overmonday_2020_w44_conectividad en el mundo](https://juanignaciosolis.github.io/infovis/tableu_1.html)
 
