@@ -10,4 +10,5 @@ Dejo algunos links sobre guías acerca del formato **"Markdow"**:
 Presento links a distintas visualizaciones:
 * **Tableu:**
   * [overmonday_2020_w44_conectividad en el mundo](https://juanignaciosolis.github.io/infovis/tableu_1.html)
+  * [overmonday_2020_w46_gasto en medios de publicidad a traves de los años](https://juanignaciosolis.github.io/infovis/ovm_2020_w46_tableu.html)
 
