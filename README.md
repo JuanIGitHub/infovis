@@ -9,11 +9,14 @@ Dejo algunos links sobre guías acerca del formato **"Markdow"**:
 
 Presento links a distintas visualizaciones en diferentes herramientas visuales:
 * **Tableu:**
-  * [overmonday_2020_w44_conectividad en el mundo](https://juanignaciosolis.github.io/infovis/mom_2020_w44_tableu.html)
-  * [overmonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w46_tableu.html)
+  * [makeovermonday_2020_w44_conectividad en el mundo](https://juanignaciosolis.github.io/infovis/mom_2020_w44_tableu.html)
+  * [makeovermonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w46_tableu.html)
 * **RawGraphs:** 
-  * [overmonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w46_rawgraph.html)
+  * [makeovermonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w46_rawgraph.html)
 * **Flourish:** 
-  * [overmonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w44_flourish.html)
+  * [makeovermonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w44_flourish.html)
+* **Vega-Lite:** 
+  * [makeovermonday_2020_w47_evolución de la deuda pública EE UU]
+  (https://juanignaciosolis.github.io/infovis/mom_2020_w47_vlite.html)
   
 
