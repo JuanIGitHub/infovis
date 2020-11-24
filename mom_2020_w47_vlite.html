@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Evolución del ratio de duda pública en E.E. U.U.</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+  </head>
+  <body>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+   var vlSpec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "makeovermonday_2020_w47",
+  "data": {"url": "https://juanignaciosolis.github.io/infovis/mom_2020_w47_dataset.csv"},
+  "height": 300,
+  "width": 800,
+  "title": "Evolución del ratio de duda pública en E.E. U.U.", 
+  "transform": [
+    {"calculate": "(datum.public_debt/(datum.gdp*1000))", "as": "debt_ratio"}], 
+  "encoding": {
+    "x": {"field": "quarter", "type": "temporal", "timeUnit": "yearquarter"},"y": {"field": "gdp", "type": "quantitative"}    
+},
+ "layer": [
+    {
+      "mark": {"opacity": 1, "type": "bar", "color": "#51578f","tooltip":true},
+      "encoding": {
+        "y": {         
+          "field": "gdp",         
+          "title": "GDP Billions",
+          "axis": {"titleColor": "#51578f","labelColor":"#51578f","tickColor":"#51578f","domainColor": "#51578f"}
+        }
+
+      }
+    },
+    {
+      "mark": {"stroke": "#85A9C5", "type": "line", "interpolate": "monotone", "tooltip":true},
+      "encoding": {
+        "y": {
+          
+          "field": "debt_ratio",
+          "title": "debt/GDP ratio",          
+          "axis": {"titleColor":"#85A9C5","labelColor":"#85A9C5", "tickColor":"#85A9C5","domainColor": "#85A9C5" }
+        }
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}}
+};
+      vegaEmbed('#vis', vlSpec);
+    </script>
+  </body>
+</html>
