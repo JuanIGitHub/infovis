@@ -18,4 +18,8 @@ Presento links a distintas visualizaciones en diferentes herramientas visuales:
 * **Vega-Lite:** 
   * [makeovermonday_2020_w47_evolución de la deuda pública EE UU](https://juanignaciosolis.github.io/infovis/mom_2020_w47_vlite.html)
   
+### Trabajo Final de módulo
+
+Presento mi visualización realizada con **Tableu**: [Uso de mi tiempo diario en distintas actividades](https://juanignaciosolis.github.io/infovis/uso_tiempo_diario_tableu.html)
+  
 
