@@ -21,5 +21,6 @@ Presento links a distintas visualizaciones en diferentes herramientas visuales:
 ### Trabajo Final de módulo
 
 Presento mi visualización realizada con **Tableu**: [Uso de mi tiempo diario en distintas actividades](https://juanignaciosolis.github.io/infovis/uso_tiempo_diario_tableu.html)
+*Dataset usado: [datos uso del tiempo diario](juanignaciosolis.github.io/infovis/dataset_uso_tiempo.csv)*
   
 
