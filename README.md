@@ -1,5 +1,5 @@
 # infovis
-## Módulo de Visualización - DDC - ITBA
+## Módulo de Visualización - ITBA
 
 Dejo algunos links sobre guías acerca del formato **"Markdow"**:
 1. [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
