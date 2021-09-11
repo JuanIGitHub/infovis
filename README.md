@@ -1,4 +1,4 @@
-# infovis
+# InfoVis
 ## Módulo de Visualización - ITBA
 
 Dejo algunos links sobre guías acerca del formato **"Markdow"**:
