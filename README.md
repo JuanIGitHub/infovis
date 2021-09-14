@@ -11,6 +11,7 @@ Presento links a distintas visualizaciones en diferentes herramientas visuales:
 * **Tableu:**
   * [makeovermonday_2020_w44_conectividad en el mundo](https://juanignaciosolis.github.io/infovis/mom_2020_w44_tableu.html)
   * [makeovermonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w46_tableu.html)
+  * [makeovermonday_2021_w36_aborto_EE_UU_1975_2021](https://juanignaciosolis.github.io/infovis/mom_2021_w36_tableu.html)
 * **RawGraphs:** 
   * [makeovermonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w46_rawgraph.html)
 * **Flourish:** 
