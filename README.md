@@ -16,6 +16,7 @@ Presento links a distintas visualizaciones en diferentes herramientas visuales:
   * [makeovermonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w46_rawgraph.html)
 * **Flourish:** 
   * [makeovermonday_2020_w46_gasto en medios de publicidad a través de los años](https://juanignaciosolis.github.io/infovis/mom_2020_w44_flourish.html)
+  * [makeovermonday_2021_w38_precios_promedio_deep_web_2021](https://juanignaciosolis.github.io/infovis/mom_2021_w48_flourish.html)
 * **Vega-Lite:** 
   * [makeovermonday_2020_w47_evolución de la deuda pública EE UU](https://juanignaciosolis.github.io/infovis/mom_2020_w47_vlite.html)
 * **Mixed Tools** 
