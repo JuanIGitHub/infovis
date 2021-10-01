@@ -25,5 +25,6 @@ Presento links a distintas visualizaciones en diferentes herramientas visuales:
 
 Presento mi visualización realizada con **Tableu**: [Uso de mi tiempo diario en distintas actividades](https://juanignaciosolis.github.io/infovis/uso_tiempo_diario_tableu.html)
 
-  
+### Trabajo Final en equipo de la Especialización en CD 2021  
 
+Presentamos nuestras visualizaciones realizadas en **RMarkdown + Fluorish**: [Análisis electoral PASO 2021](https://juanignaciosolis.github.io/infovis/trabajo_final_2021.html)
