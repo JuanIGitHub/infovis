@@ -23,7 +23,7 @@ Presento links a distintas visualizaciones en diferentes herramientas visuales:
   * [makeovermonday_2021_w37_plantas_solares_mundo](https://juanignaciosolis.github.io/infovis/mom_2021_w37_mix.html)
 ### Trabajo Final de la Diplomatura en CD 2020
 
-Presento mi visualización realizada con **Tableu**: [Uso de mi tiempo diario en distintas actividades](https://juanignaciosolis.github.io/infovis/uso_tiempo_diario_tableu.html)
+Presento mi visualización realizada con **Tableau**: [Uso de mi tiempo diario en distintas actividades](https://juanignaciosolis.github.io/infovis/uso_tiempo_diario_tableu.html)
 
 ### Trabajo Final en equipo de la Especialización en CD 2021  
 
